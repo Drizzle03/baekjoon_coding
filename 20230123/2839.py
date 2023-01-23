@@ -1,6 +1,4 @@
 N = int(input())
-cnt = 0
-
 ans = 0
 check = 0
 while(N>=0):
